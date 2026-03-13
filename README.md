@@ -1,7 +1,7 @@
 # Nome do Repositório
 
 **Título do TCC:Exploração do uso de bancos de dados orientados a grafos para o armazenamento e o gerenciamento da gene ontology.** <!-- substitua pelo título do TCC -->
-**Alunos:José Paulo Macedo Da Silva** <!-- substitua pelos nomes dos alunos -->
+**Alunos:** José Paulo Macedo Da Silva** <!-- substitua pelos nomes dos alunos -->
 **Semestre de Defesa:2026-1** <!-- ano-semestre, exemplo: 2025-2 -->
 
 [PDF do TCC](caminho_do_arquivo)
