@@ -1,4 +1,3 @@
-# 26_1-Jose_Paulo
 # Nome do Repositório
 
 **Título do TCC:Exploração do uso de bancos de dados orientados a grafos para o armazenamento e o gerenciamento da gene ontology.** <!-- substitua pelo título do TCC -->
